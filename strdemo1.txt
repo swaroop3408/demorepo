@@ -1,0 +1,31 @@
+
+
+def fun1():
+    str = "Hello Python !"
+    print(type(str))
+    print(str)
+    #print(str[0])  
+    #print(str[1])  
+    #print(str[2])  
+    #print(str[3])  
+    #print(str[4])
+    #print(str[6:12])
+    #print(str[0:])
+    #print(str[:5])
+    #print(str[20])
+    str1 = "MindTechSolution!"
+    #print(str1*3)
+    #print(str+str1)
+    #print('M' in str1)
+    #x='W'
+    #if(x in str1):
+       # print(x," is present in Given String")
+    #else:
+       # print(x," is No present in Given String")
+    #print(r'C://python37')
+    #print("The string str : %s"%(str))
+    #print("String Length = ",len(str))
+    print(str[-9:-2])
+
+
+fun1()
